@@ -1,4 +1,7 @@
-# test coverage for  [dynamics.js (v1.1.5)](http://dynamicsjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamics.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamics.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamics.js.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamics.js)
+# npmtest-dynamics.js
+
+#### test coverage for  [dynamics.js (v1.1.5)](http://dynamicsjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamics.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamics.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamics.js.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamics.js)
+
 #### Javascript library to create physics-related animations
 
 [![NPM](https://nodei.co/npm/dynamics.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dynamics.js)
